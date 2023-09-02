@@ -1,4 +1,7 @@
 ### Hi there 👋
 
-![nicao2005's Stats](https://github-readme-stats.vercel.app/api?username=nicao2005&theme=buefy&show_icons=true&hide_border=true&count_private=true)
-![nicao2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicao2005&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <a href="https://github.com/nicao2005">
+  <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=nicao2005&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicao2005&layout=compact&langs_count=7&theme=dark"/>
+</div>
