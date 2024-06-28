@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=>+Hello+World!;Meu+Nome+é+Nícolas+Leffa+Pessel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=>+Hello+World!)](https://git.io/typing-svg)
 
 
 ![nicao2005's Stats](https://github-readme-stats.vercel.app/api?username=nicao2005&theme=discord_old_blurple&show_icons=true&hide_border=true&count_private=true)
